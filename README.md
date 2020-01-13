@@ -1,2 +1,0 @@
-# GIDR
-Create incidents GIDR
